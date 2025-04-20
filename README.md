@@ -21,7 +21,7 @@ identify human expressions.
 
 ## Project report
 
-Report URL: [Project report](https://github.com/yuelinwen/CloudVault/blob/b326b8a0ddcbd27a2226d3e515f4bd3799472f49/CloudVault-project-report.pdf)
+Report URL: [Project report](https://github.com/yuelinwen/facial-expression-recognition/blob/main/4AI3_project_report.pdf)
 
 ## Contact
 
